@@ -1,0 +1,8 @@
+{
+  "name": "Autonomous Operations Console",
+  "description": "High-precision minimal autonomous operations console for a digital marketing agent, featuring live pipeline orchestration, telemetry, and creative synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
