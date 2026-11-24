@@ -8,7 +8,7 @@
 
 | Campaign Setup & Multi-Platform Ad Generation | Dynamic Budget Split & Live ROI Simulation |
 | :---: | :---: |
-| ![Campaign Setup](docs/images/dashboard-setup.png)[cite: 45] | ![Analytics Simulation](docs/images/analytics-simulation.png)[cite: 45] |
+| ![Campaign Setup](/images/dashboard-setup.png)[cite: 45] | ![Analytics Simulation](/images/analytics-simulation.png)[cite: 45] |
 
 ---
 
